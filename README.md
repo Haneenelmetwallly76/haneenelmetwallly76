@@ -27,7 +27,7 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/haneen-elmetwally-19803b222/" target="blank">
+<a href="https://www.linkedin.com/in/haneen-elmetwally-3828902a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Haneen Elmetwally LinkedIn" />
 </a>
 <a href="mailto:haneenelmetwally48@gmail.com" target="blank">
