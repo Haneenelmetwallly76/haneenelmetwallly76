@@ -23,11 +23,19 @@
 
 ---
 
+---
+
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/haneen-elmetwally-19803b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Haneen Elmetwally LinkedIn" height="30" width="40" /></a>
-<a href="mailto:haneenelmetwally48@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/haneen-elmetwally-19803b222/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Haneen Elmetwally LinkedIn" />
+</a>
+<a href="mailto:haneenelmetwally48@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Haneen" />
+</a>
 </p>
+
+---
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haneenelmetwallly76&show_icons=true&locale=en&layout=compact" alt="haneenelmetwallly76" />
