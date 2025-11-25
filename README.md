@@ -34,10 +34,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Haneen" />
 </a>
 </p>
-
----
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haneenelmetwallly76&show_icons=true&locale=en&layout=compact" alt="haneenelmetwallly76" />
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haneenelmetwallly76&show_icons=true&locale=en" alt="haneenelmetwallly76" />
-</p>
